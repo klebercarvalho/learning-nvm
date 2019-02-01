@@ -7,7 +7,12 @@ MVM
 
 nvm version
 ```sh
-$ nvm --verion
+$ nvm --version
+```
+
+nvm help
+```sh
+$ nvm --help
 ```
 
 List installed versions
